@@ -3,6 +3,7 @@ This script can be uploaded to an IIS server and then used to output machinekeys
 REF: https://zeroed.tech/blog/viewstate-the-unpatchable-iis-forever-day-being-actively-exploited/
 
 
+=====================================================================================================================
 
 
 https://www.claranet.com/us/blog/2019-06-13-exploiting-viewstate-deserialization-using-blacklist3r-and-ysoserialnet
@@ -10,6 +11,7 @@ https://www.claranet.com/us/blog/2019-06-13-exploiting-viewstate-deserialization
 https://github.com/isclayton/viewstalker
 
 
+=====================================================================================================================
 
 
 https://github.com/RowTeam/SharpViewStateKing
