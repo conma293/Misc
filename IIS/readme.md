@@ -4,12 +4,16 @@ REF: https://zeroed.tech/blog/viewstate-the-unpatchable-iis-forever-day-being-ac
 
 
 
+
 https://www.claranet.com/us/blog/2019-06-13-exploiting-viewstate-deserialization-using-blacklist3r-and-ysoserialnet
+
 https://github.com/isclayton/viewstalker
 
 
 
+
 https://github.com/RowTeam/SharpViewStateKing
+
 https://github.com/pwntester/ysoserial.net
 
 
